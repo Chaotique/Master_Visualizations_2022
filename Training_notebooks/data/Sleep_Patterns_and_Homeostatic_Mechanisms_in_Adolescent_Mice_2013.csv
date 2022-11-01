@@ -1,0 +1,18 @@
+(A) Frontal: Predictors for SWA rebound (5/1); % change SWA (5/1) = B0 + (predictors) ,p ,AIC ,R2
+Weight-adjusted age (using Gompertz fit),0.00507,362,0.189
+Recovery days from surgery,0.43,370,0.0164
+REM/NREM amount (12 h of recovery),0.0071,363,0.175
+n of sleep attempts during sleep deprivation,0.053,367,0.0953
+Sleep during sleep deprivation (min/4 h),0.0582,367,0.0913
+"Brief arousals (n/min of sleep, first 4 h of recovery)",0.31,369,0.0273
+Increase in wake SWA (1–4 Hz) during sleep deprivation,0.76,370,0.0249
+Slow wave energy (SWE = SWA × time) during deprivation (wake and NREM),0.84,371,0.0011
+Time spent awake since last sleep ,0.91,371,0.00033
+NREM SWA decline in baseline (1/2),0.000154,355,0.317
+NREM SWA decline in baseline (1/2) +,0.0001,352,0.395
+Increase in wake alpha (8–12 Hz),0.0352,352,0.395
+NREM SWA decline in baseline (1/2) +,0.0009,352,0.4
+Weight-adjusted age,0.0297,352,0.4
+NREM SWA decline in baseline (1/2) +,0.00043,352,0.431
+Increase in wake alpha (8–12 Hz) +,0.17293,352,0.431
+Weight-adjusted age ,0.14348,352,0.431
