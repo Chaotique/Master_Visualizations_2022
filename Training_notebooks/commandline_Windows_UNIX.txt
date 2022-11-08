@@ -1,0 +1,36 @@
+In class, you were asked to solve the following task in the command line: 
+
+1. Create a new folder "learn_bash".
+2. Create a file "hello.txt" and a folder "texts", both inside "learn_bash".
+3. Move "hello.txt" into "texts".
+
+# In UNIX that would be:
+mkdir learn_bash
+cd learn_bash
+touch hello.txt
+mkdir texts
+mv hello.txt texts
+
+# In Windows, all is the same, but the touch command does not exist, so you would do:
+mkdir learn_bash
+cd learn_bash
+echo somethingyouwanttowriteintothefile > hello.txt
+mkdir texts
+mv hello.txt texts
+
+
+# To check which files are in your current folder, type:
+#in UNIX: 
+ls
+# in Windows:
+dir
+
+
+# To move one folder up, type:
+cd ..
+# To move to the HOME folder:
+cd ~
+# Note that you don't have to write the entire names of files/ folders. Just type the first couple of leters (case-sensitive!) and use TAB to complete. 
+
+# Use up and down arrows to move to commands you used before. Use Ctrl+R to search a specific command in your command history. 
+
